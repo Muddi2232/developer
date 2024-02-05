@@ -1,0 +1,42 @@
+.images{
+    border: 2px lightgray solid;
+}
+.photos{
+    margin-left: 70px;
+    margin-right: 70px;
+    display: flex;
+    gap: 1px;
+    
+}
+.pic1{
+    box-shadow: 0 0 7px 1px #666666;
+    margin: 0 10px;
+    border-right: 0;
+    border-left: 0;
+    padding: 8px 0px;
+    background-color: #fff; 
+}
+
+.pic2{
+    box-shadow: 0 0 7px 1px #666666;
+    margin: 0 10px;
+    border-right: 0;
+    border-left: 0;
+    padding: 8px 0px;
+    background-color: #fff; 
+}
+
+.pic3{
+    box-shadow: 0 0 7px 1px #666666;
+    margin: 0 10px;
+    border-right: 0;
+    border-left: 0;
+    padding: 8px 0px;
+    background-color: #fff; 
+}
+.pic4{
+    background: #e8e8e8;
+    background-position: center top;
+    margin-top: 5px;
+}
+
